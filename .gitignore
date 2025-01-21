@@ -1,0 +1,8 @@
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.cache
+.vs/
+/bin/
+/release/
