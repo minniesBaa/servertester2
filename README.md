@@ -36,6 +36,6 @@ We used Task Scheduler and set up two tasks. One runs every 5 minutes and shows 
 # Custom Configurations
 If supplied the `-showOn` flag, the application will respond with a toast notification showing if the server is on. If not, it will only display a notification if the server is down. You can use this to setup Task Scheduler tasks on your own schedule.
 # Planned Updates
-- Support for multiple servers
-- A GUI for showing status and configuring multiple servers
-- Setup script for Task Scheduler configurations
+- [ ] Support for multiple servers
+- [ ] A GUI for showing status and configuring multiple servers
+- [ ] Setup script for Task Scheduler configurations
